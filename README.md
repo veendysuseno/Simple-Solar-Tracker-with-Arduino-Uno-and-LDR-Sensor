@@ -3,6 +3,7 @@
 This project demonstrates how to build a simple solar tracker using an Arduino Uno, two LDR (Light Dependent Resistor) sensors, and a servo motor. The system adjusts the position of a solar panel to maximize sunlight exposure by detecting light intensity differences between the two LDRs.
 
 ## Components Used
+
 - Arduino IDE or Text Editor example --> VisualStudio Code;
 - Library: Servo;
 - Arduino Uno (or compatible board) = 1 Unit;
@@ -64,4 +65,3 @@ This project demonstrates how to build a simple solar tracker using an Arduino U
 - The program works when the sensor starts to detect it light. When the sensor starts to detect the servo light will move in the direction of the light movement detected by the LDR sensor.
 
 #### @Copyright 2024 | Simple-Solar-Tracker-with-Arduino-Uno-and-LDR-Sensor
-"# Simple-Solar-Tracker-with-Arduino-Uno-and-LDR-Sensor" 
